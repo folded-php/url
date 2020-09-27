@@ -2,6 +2,8 @@
 
 URL utilities for your PHP web app.
 
+[![Build Status](https://travis-ci.com/folded-php/url.svg?branch=master)](https://travis-ci.com/folded-php/url) [![Maintainability](https://api.codeclimate.com/v1/badges/1968f36aaf19246dcc16/maintainability)](https://codeclimate.com/github/folded-php/url/maintainability) [![TODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/folded-php/url)](https://www.tickgit.com/browse?repo=github.com/folded-php/url)
+
 ## Summary
 
 - [About](#about)
