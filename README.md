@@ -2,7 +2,7 @@
 
 URL utilities for your PHP web app.
 
-[![Build Status](https://travis-ci.com/folded-php/url.svg?branch=master)](https://travis-ci.com/folded-php/url) [![Maintainability](https://api.codeclimate.com/v1/badges/1968f36aaf19246dcc16/maintainability)](https://codeclimate.com/github/folded-php/url/maintainability) [![TODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/folded-php/url)](https://www.tickgit.com/browse?repo=github.com/folded-php/url)
+[![Packagist License](https://img.shields.io/packagist/l/folded/url)](https://github.com/folded-php/url/blob/master/LICENSE) [![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/folded/url)](https://github.com/folded-php/url/blob/master/composer.json#L14) [![Packagist Version](https://img.shields.io/packagist/v/folded/url)](https://packagist.org/packages/folded/url) [![Build Status](https://travis-ci.com/folded-php/url.svg?branch=master)](https://travis-ci.com/folded-php/url) [![Maintainability](https://api.codeclimate.com/v1/badges/1968f36aaf19246dcc16/maintainability)](https://codeclimate.com/github/folded-php/url/maintainability) [![TODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/folded-php/url)](https://www.tickgit.com/browse?repo=github.com/folded-php/url)
 
 ## Summary
 
