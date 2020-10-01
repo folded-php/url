@@ -6,7 +6,7 @@ namespace Folded;
 
 use InvalidArgumentException;
 
-if (!function_exists("getQueryString")) {
+if (!function_exists("Folded\getQueryString")) {
     /**
      * Get the query string value by its name.
      *
