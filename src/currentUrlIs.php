@@ -6,7 +6,7 @@ namespace Folded;
 
 use InvalidArgumentException;
 
-if (!function_exists("currentUrlIs")) {
+if (!function_exists("Folded\currentUrlIs")) {
     /**
      * Returns true if the current URL matches the given URL.
      * You don't have to pass the domain.

@@ -6,7 +6,7 @@ namespace Folded;
 
 use InvalidArgumentException;
 
-if (!function_exists("hasQueryString")) {
+if (!function_exists("Folded\hasQueryString")) {
     /**
      * Returns true if the query string is present in the current URL, else returns false.
      *

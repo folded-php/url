@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 namespace Folded;
 
-if (!function_exists("getCurrentUrl")) {
+if (!function_exists("Folded\getCurrentUrl")) {
     /**
      * Get the current URL, including the server protocol and the domain.
      *

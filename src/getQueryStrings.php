@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 namespace Folded;
 
-if (!function_exists("getQueryStrings")) {
+if (!function_exists("Folded\getQueryStrings")) {
     /**
      * Get all the query strings as an associative array.
      *
