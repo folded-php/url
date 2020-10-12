@@ -16,6 +16,8 @@ if (!function_exists("Folded\getQueryString")) {
      * @throws InvalidArgumentException If the query string name is empty.
      * @throws InvalidArgumentException If the query string name is not found.
      *
+     * @return mixed|string
+     *
      * @since 0.1.0
      *
      * @example
