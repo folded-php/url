@@ -8,6 +8,8 @@ if (!function_exists("Folded\getQueryStrings")) {
     /**
      * Get all the query strings as an associative array.
      *
+     * @return array<string, string>
+     *
      * @since 0.1.0
      *
      * @example
@@ -21,7 +23,13 @@ if (!function_exists("Folded\getQueryStrings")) {
     {
         $queryStrings = [];
 
-        parse_str(parse_url($_SERVER["REQUEST_URI"], PHP_URL_QUERY) ?? "", $queryStrings);
+        $queryString = parse_url($_SERVER["REQUEST_URI"], PHP_URL_QUERY);
+
+        if (!is_string($queryString)) {
+            $queryString = "";
+        }
+
+        parse_str($queryString, $queryStrings);
 
         return $queryStrings;
     }
