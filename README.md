@@ -48,7 +48,7 @@ composer require folded/url
 
 ## Examples
 
-- [1. Check if the current URL matches a given URL](#1. Check if the current URL matches a given URL)
+- [1. Check if the current URL matches a given URL](#1-check-if-the-current-url-matches-a-given-url)
 - [2. Get the current URL](#2-get-the-current-url)
 - [3. Get a query string value by key name](#3-get-a-query-string-value-by-key-name)
 - [4. Get all the query strings](#4-get-all-the-query-strings)
